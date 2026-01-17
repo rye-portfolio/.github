@@ -1,5 +1,5 @@
-## Hello !
-Welcome to Rye's comprehensive software portfolio! It's a lot, and there's more under the surface.
+## Hi! 🐈
+Welcome to Rye's comprehensive software portfolio! It's a lot.
 
 ## Coursework from North Carolina State University
 Samples of classwork are private but available upon request.
@@ -37,37 +37,41 @@ Samples of classwork are private but available upon request.
   * Ported tModLoader from .NET Framework XNA to .NET Core 3.1 FNA over 8 months
   * Improved portability and let modders use modern C# language features and .NET Core libraries
  
-* *Rain World custom game object library.* (TODO repo)
+* *Rain World custom game object library.* ([repo](https://github.com/Dual-Iron/fisobs))
   * Addressed gap in mod compatibility with a FOSS code library to define custom game objects and creatures
   * Maintained over multiple breaking-change updates with help from community contributions; now community standard
  
-* *Rain World input configuration library.* (TODO repo)
+* *Rain World input configuration library.* ([repo](https://github.com/Dual-Iron/improved-input-config))
   * Addressed inability for plugin creators to create custom, configurable controls
   * Designed and implemented a FOSS dependency that beautifies and standardizes game input, now used by multiple mods
   * Maintained solely by community contributions and forks
 
 ## Independent projects
+* *Heart Rate Estimation From PPG Data.* ([colab](https://colab.research.google.com/drive/1nbEZzPHHECTZeUe5raj4YWIGCT4Y39Lt?usp=sharing))
+  * Trained and evaluated the CNN machine learning model described in Reiss et al. (2019) 
+  * Developed an end-to-end pipeline to easily train with other datasets
+
 * *Sample ASP.NET Core project.* ([repo](https://github.com/rye-pf/prometheus-assessment))
   * C# 12 on .NET 8 with ASP.NET Core library
   * Consumes a stock API, performs basic data analysis on the response, and exposes data as new REST API
 
-* *Rain World plugin loader.* (TODO repo)
+* *Rain World plugin loader.* ([repo](https://github.com/Dual-Iron/RwModLoader))
   * Developed and maintained mod loader client, daemon, server, and database. Semver and REST compliant
   * Client: Interfaces with user directly. Unity C# with Futile framework on .NET Framework 3.5
   * Daemon: Uploads, downloads, and patches plugins; Auto-updates. C# on .NET 5
   * Server: Exposes API to list, get, and post plugins; Auto-uploads from GitHub releases. Rust with Rocket framework
   * Hosted *for free* with 98% uptime using railway.com and MongoDB
 
-* *Rain World multiplayer injection.* (TODO repo)
+* *Rain World multiplayer injection.* ([repo](https://github.com/Dual-Iron/rainworldwide))
   * Explored lag compensation and server-client authority (client-side physics interpolation with server validation)
   * Injected game with BepInEx to make it into a headless terminal or daemon capable of serving multiple clients
 
-* *Rain World quality-of-life plugins.* (multiple repos)
+* *Rain World quality-of-life plugins.* ([multiple repos](https://github.com/search?q=owner%3ADual-Iron+qol-mod&type=repositories))
   * Addressed multiple game features that needed polishing
   * Created game rules, dev console, object persistence, and accessibility controls/features
 
-* *.NET assembly parser and patcher.* (TODO [repo](https://github.com/Dual-Iron/oxil/tree/read), 'read' breach)
-  * Implementing an idiomatic Rust library to inspect and modify .NET assemblies from official Microsoft spec
+* *.NET assembly parser and patcher.* ([repo](https://github.com/Dual-Iron/oxil/tree/read))
+  * Implemented an idiomatic Rust library to inspect and modify .NET assemblies from official Microsoft spec
   * Designed bottom-up to be performant, thread-safe, memory-safe, and foolproof with extensive documentation
   * Run entirely on the stack
 
