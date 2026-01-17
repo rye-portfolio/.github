@@ -24,7 +24,7 @@ Samples of classwork are private but available upon request.
   * Implemented command-line programs with quality-assurance unit testing and code coverage reports
 
 * *Intro to Robot Motion Planning.* (CSC495-RMP)
-  * Coded in Python on ROS2 with [FCL](https://pypi.org/project/python-fcl/) library and RViz visualizer
+  * Coded in Python on ROS2 with python-fcl library and RViz visualizer
   * Implemented and tested inverse kinematics, trajectory generation, GJK collision detection, and RRT pathfinding
 
 * *Intro to Responsible Machine Learning.* (CSC495-RML)
@@ -47,8 +47,8 @@ Samples of classwork are private but available upon request.
   * Maintained solely by community contributions and forks
 
 ## Independent projects
-* *Heart Rate Estimation From PPG Data.* ([colab](https://colab.research.google.com/drive/1nbEZzPHHECTZeUe5raj4YWIGCT4Y39Lt?usp=sharing))
-  * Trained and evaluated the CNN machine learning model described in Reiss et al. (2019) 
+* *CNN to estimate heart rate from PPG and accelerometer data.* ([colab](https://colab.research.google.com/drive/1nbEZzPHHECTZeUe5raj4YWIGCT4Y39Lt?usp=sharing))
+  * Trained and evaluated the machine learning model described in Reiss et al. (2019) 
   * Developed an end-to-end pipeline to easily train with other datasets
 
 * *Sample ASP.NET Core project.* ([repo](https://github.com/rye-pf/prometheus-assessment))
@@ -70,10 +70,10 @@ Samples of classwork are private but available upon request.
   * Addressed multiple game features that needed polishing
   * Created game rules, dev console, object persistence, and accessibility controls/features
 
-* *.NET assembly parser and patcher.* ([repo](https://github.com/Dual-Iron/oxil/tree/read))
+* *Rust-based .NET assembly parser and patcher.* ([repo](https://github.com/Dual-Iron/oxil/tree/read))
   * Implemented an idiomatic Rust library to inspect and modify .NET assemblies from official Microsoft spec
   * Designed bottom-up to be performant, thread-safe, memory-safe, and foolproof with extensive documentation
-  * Run entirely on the stack
+  * Built to not require the heap at all
 
 <!--
 projects https://docs.google.com/document/d/1cPU6ozPMYfJz1ZZkQZQCYjD_Wg_1h71oSBGFBj_vXCY/edit?tab=t.0
