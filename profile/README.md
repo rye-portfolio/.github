@@ -39,10 +39,11 @@ Samples of classwork are private but available upon request.
  
 * *Rain World custom game object library.* ([repo](https://github.com/Dual-Iron/fisobs))
   * Addressed plugin cross-compatibility issues with a FOSS code library that lets developers define custom game objects and creatures
-  * Maintained over multiple breaking-change updates with help from community contributions; now community standard
+  * Maintained over multiple breaking-change updates with help from community contributions
+  * Now the community standard!
  
 * *Rain World input configuration library.* ([repo](https://github.com/Dual-Iron/improved-input-config))
-  * Addressed inability for plugin creators to create custom, configurable controls
+  * Addressed inability for plugin creators to create custom, configurable input controls
   * Designed and implemented a FOSS dependency that beautifies and standardizes game input, now used by multiple mods
   * Maintained solely by community contributions and forks
 
