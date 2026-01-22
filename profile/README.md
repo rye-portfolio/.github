@@ -38,7 +38,7 @@ Samples of classwork are private but available upon request.
   * Improved portability and let modders use modern C# language features and .NET Core libraries
  
 * *Rain World custom game object library.* ([repo](https://github.com/Dual-Iron/fisobs))
-  * Addressed gap in mod compatibility with a FOSS code library to define custom game objects and creatures
+  * Addressed plugin cross-compatibility issues with a FOSS code library that lets developers define custom game objects and creatures
   * Maintained over multiple breaking-change updates with help from community contributions; now community standard
  
 * *Rain World input configuration library.* ([repo](https://github.com/Dual-Iron/improved-input-config))
