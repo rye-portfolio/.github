@@ -52,7 +52,7 @@ Samples of classwork are private but available upon request.
   * Trained and evaluated the machine learning model described in Reiss et al. (2019) 
   * Developed an end-to-end pipeline to easily train with other datasets
 
-* *Sample ASP.NET Core project.* ([repo](https://github.com/rye-pf/prometheus-assessment))
+* *Sample ASP.NET Core project.* (available upon request)
   * C# 12 on .NET 8 with ASP.NET Core library
   * Consumes a stock API, performs basic data analysis on the response, and exposes data as new REST API
 
