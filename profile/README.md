@@ -75,6 +75,10 @@ Samples of classwork are private but available upon request.
   * Implemented an idiomatic Rust library to inspect and modify .NET assemblies from official Microsoft spec
   * Designed bottom-up to be performant, thread-safe, memory-safe, and foolproof with extensive documentation
   * Built to not require the heap at all
+ 
+## There is more!
+
+I don't update this page often. Check [github.com/Dual-Iron](https://github.com/Dual-Iron) for all my personal GitHub contributions.
 
 <!--
 projects https://docs.google.com/document/d/1cPU6ozPMYfJz1ZZkQZQCYjD_Wg_1h71oSBGFBj_vXCY/edit?tab=t.0
